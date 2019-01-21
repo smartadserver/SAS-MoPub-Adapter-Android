@@ -1,7 +1,7 @@
 Smart AdServer - MoPub SDK Adapter for Android
 ==============================================
 
-This repository is deprecated, please refer to the new repository https://github.com/smartadserver/smart-display-android-samples.
+This repository is deprecated, please refer to the new repository https://github.com/smartadserver/smart-mopub-mediation-adapter-android.
 
 Introduction
 ------------
